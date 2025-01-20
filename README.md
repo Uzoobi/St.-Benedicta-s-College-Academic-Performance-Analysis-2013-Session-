@@ -1,0 +1,2 @@
+# St.-Benedicta-s-College-Academic-Performance-Analysis-2013-Session-
+Project Summary:  This project evaluates the academic performance, demographic composition, and accommodation preferences of St. Benedicta's College students during the 2013 session using a detailed Power BI dashboard. The goal is to identify key trends, challenges, and opportunities to enhance academic outcomes and improve student well-being.
